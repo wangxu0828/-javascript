@@ -15,7 +15,7 @@
 
 - 以webkit为例，webkit‘事实上由两部分组成：
 
-  ![webkit](C:\Users\22452\Desktop\深入javascript高级语法\images\Webkit图解.png)
+  ![webkit](\深入javascript高级语法\images\Webkit图解.png)
 
   - WebCore：负责HTML解析, css解析， 布局， 渲染等相关的工作
   - JavascriptCore： 解析， 执行Javascript代码
