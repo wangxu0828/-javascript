@@ -15,7 +15,9 @@
 
 - 以webkit为例，webkit‘事实上由两部分组成：
 
-  ![webkit](/深入javascript高级语法/images/Webkit图解.png)
+  ![webkit](https://raw.githubusercontent.com/wangxu0828/In-depth-javascript/master/images/Webkit%E5%9B%BE%E8%A7%A3.png)
 
   - WebCore：负责HTML解析, css解析， 布局， 渲染等相关的工作
   - JavascriptCore： 解析， 执行Javascript代码
+
+  > blink的类似于WebCore的东西没有具体的名字，也可称之为blink
